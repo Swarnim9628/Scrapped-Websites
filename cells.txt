@@ -1,0 +1,15 @@
+~In cell 1 imported modules like selenium,json,Service object,pandas.
+~In cell 2 and 3 setting path of chrome driver using service object.
+~In cell 4 URL of the provided site
+~In cell 5 Opening the page url in Chrome Browser
+~In cell 6 Getting each college Location
+~In Cell 7 Parsing each college Location in a list
+~In cell 8 Getting each college Rank
+~In Cell 9 Parsing each college Rank in a list
+~In cell 10 Getting each college headers
+~In Cell 11 Parsing each college headers in a list
+~In Cell 12 Getting each college header's values
+~In Cell 13 Parsing each college header's values in a list
+~In Cell 10 storing all the content in key-Value Form
+~In Cell 11 Dump each key-value pairs in json file
+~In Cell 12 Storing each college data json file.
